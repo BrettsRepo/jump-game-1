@@ -1,0 +1,10 @@
+C:\Users\brett20\source\repos\juuump\juuump\bin\Debug\juuump.exe.config
+C:\Users\brett20\source\repos\juuump\juuump\bin\Debug\juuump.exe
+C:\Users\brett20\source\repos\juuump\juuump\bin\Debug\juuump.pdb
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.csprojAssemblyReference.cache
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.Form1.resources
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.Properties.Resources.resources
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.csproj.GenerateResource.cache
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.csproj.CoreCompileInputs.cache
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.exe
+C:\Users\brett20\source\repos\juuump\juuump\obj\Debug\juuump.pdb
